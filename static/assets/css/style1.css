@@ -1,0 +1,25 @@
+.centre_gauche{
+position: relative !important;
+left:230px !important;
+}
+
+.largeur{
+width: 650px !important;
+heigth: 450px ! important;
+
+}
+
+.boutton-1{
+position: relative !important;
+left:250px ! important;
+width:80px!important;
+border-radius:5px !important;
+
+
+}
+.boutton-2{
+position: relative !important;
+left:700px ! important;
+top:-30px !important;
+
+}
